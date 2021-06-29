@@ -1,0 +1,129 @@
+patient,cohort,onset,gender,age,DeltaFRS
+p1,Development Cohort,spinal,male,51,1.5410473
+p2,Development Cohort,spinal,male,75,1.01649025
+p3,Development Cohort,spinal,male,57,0.48526596
+p4,Development Cohort,spinal,female,62,0.97646789
+p5,Development Cohort,spinal,male,72,0.3081444
+p6,Development Cohort,spinal,male,37,0.13997698
+p7,Development Cohort,bulbar,male,75,0.65048128
+p8,Development Cohort,spinal,male,72,0.56664596
+p9,Development Cohort,spinal,female,46,2.10383648
+p10,Development Cohort,spinal,male,66,0.26675439
+p11,Development Cohort,spinal,male,74,0.24134921
+p12,Development Cohort,bulbar,female,54,0.60417219
+p13,Development Cohort,spinal,female,74,0.1780445
+p14,Development Cohort,bulbar,female,86,0.5051495
+p15,Development Cohort,spinal,female,49,0.96539683
+p16,Development Cohort,spinal,female,51,0.42680702
+p17,Development Cohort,spinal,male,76,0.29361379
+p18,Development Cohort,bulbar,female,72,1.28280397
+p19,Development Cohort,spinal,male,41,0.21721429
+p20,Development Cohort,spinal,male,36,2.02733333
+p21,Development Cohort,spinal,male,58,0.04137415
+p22,Development Cohort,spinal,male,52,0.30258706
+p23,Development Cohort,spinal,male,55,1.47145161
+p24,Development Cohort,spinal,male,62,0.90776119
+p25,Development Cohort,spinal,female,64,0.22766845
+p26,Development Cohort,bulbar,male,69,1.80398305
+p27,Development Cohort,spinal,female,53,0.91458647
+p28,Development Cohort,spinal,male,69,0.78261029
+p29,Development Cohort,spinal,male,68,1.25661157
+p30,Development Cohort,spinal,female,56,1.2979878
+p31,Development Cohort,spinal,male,50,1.00756024
+p32,Development Cohort,spinal,female,52,0.10812444
+p33,Development Cohort,spinal,female,38,0.61558705
+p34,Development Cohort,spinal,female,69,0.14412322
+p35,Development Cohort,spinal,female,64,5.1697
+p36,Development Cohort,spinal,male,66,0.70230947
+p37,Development Cohort,spinal,male,61,0.56947565
+p38,Development Cohort,spinal,male,61,0.47664577
+p39,Development Cohort,spinal,male,57,0.09299694
+p40,Development Cohort,spinal,male,71,0.47423002
+p41,Development Cohort,bulbar,female,60,0.27212528
+p42,Development Cohort,bulbar,male,51,0.44072464
+p43,Development Cohort,bulbar,female,62,0.54957831
+p44,Development Cohort,spinal,female,57,0.77231746
+p45,Development Cohort,bulbar,male,56,0.16754821
+p46,Development Cohort,bulbar,female,60,0
+p103,Validation Cohort 1,bulbar,female,66,1.88751724
+p109,Validation Cohort 1,bulbar,female,65,0.20547297
+p305,Validation Cohort 1,bulbar,male,58,0.97646789
+p307,Validation Cohort 1,bulbar,female,74,1.80653465
+p308,Validation Cohort 1,bulbar,male,56,0.37427692
+p311,Validation Cohort 1,bulbar,female,59,2.40654676
+p315,Validation Cohort 1,bulbar,male,73,1.11391941
+p321,Validation Cohort 1,bulbar,male,76,0.81364549
+p327,Validation Cohort 1,bulbar,female,74,1.77145631
+p328,Validation Cohort 1,bulbar,male,75,3.24373333
+p334,Validation Cohort 1,bulbar,male,68,1.09993617
+p343,Validation Cohort 1,bulbar,male,58,0.58803867
+p349,Validation Cohort 1,bulbar,female,66,0.96924303
+p351,Validation Cohort 1,bulbar,male,53,1.27675572
+p502,Validation Cohort 1,spinal,male,48,0.09407579
+p503,Validation Cohort 1,spinal,female,44,0.40013158
+p504,Validation Cohort 1,spinal,male,74,0.59627451
+p508,Validation Cohort 1,spinal,female,71,0.5829393
+p513,Validation Cohort 1,spinal,male,56,1.03619259
+p517,Validation Cohort 1,spinal,female,58,0.55771236
+p714,Validation Cohort 1,spinal,male,75,0.72290016
+p715,Validation Cohort 1,spinal,male,41,0.33720766
+p718,Validation Cohort 1,spinal,female,54,0.78261029
+p720,Validation Cohort 1,spinal,female,62,1.900625
+p725,Validation Cohort 1,spinal,male,77,0.58820116
+p728,Validation Cohort 1,spinal,male,53,0.52932985
+p729,Validation Cohort 1,spinal,male,47,0.89004878
+p733,Validation Cohort 1,spinal,female,59,1.19042705
+p734,Validation Cohort 1,spinal,female,78,1.96193548
+p737,Validation Cohort 1,spinal,male,59,1.90603989
+p741,Validation Cohort 1,spinal,male,58,2.72641379
+p745,Validation Cohort 1,spinal,male,63,0.1982399
+p748,Validation Cohort 1,spinal,male,48,0.2399211
+p752,Validation Cohort 1,spinal,male,59,0.48770755
+p755,Validation Cohort 1,spinal,male,67,0.0343228
+p758,Validation Cohort 1,spinal,female,62,0.60163669
+p762,Validation Cohort 1,spinal,male,68,0.27091314
+p766,Validation Cohort 1,spinal,male,71,0.18191426
+p767,Validation Cohort 1,spinal,female,69,1.03201357
+p774,Validation Cohort 1,spinal,male,78,0.34556818
+p776,Validation Cohort 1,spinal,female,43,0.14738288
+p777,Validation Cohort 1,spinal,male,64,0.42830986
+p785,Validation Cohort 1,spinal,male,66,0.3004281
+p798,Validation Cohort 1,spinal,female,61,0.40910314
+p800,Validation Cohort 1,spinal,male,57,0.27867125
+p801,Validation Cohort 1,spinal,male,57,0.54182628
+p806,Validation Cohort 1,spinal,male,56,0.11443086
+p808,Validation Cohort 1,spinal,male,36,0.85361403
+p810,Validation Cohort 1,spinal,male,70,2.04834197
+p1005,Validation Cohort 2,spinal,male,52,0.35
+p1021,Validation Cohort 2,spinal,male,52,1.30769231
+p1050,Validation Cohort 2,spinal,male,57,0.47058824
+p1051,Validation Cohort 2,spinal,male,33,0.27272727
+p1082,Validation Cohort 2,bulbar,female,56,0.19444444
+p1090,Validation Cohort 2,bulbar,male,67,0.33333333
+p1103,Validation Cohort 2,spinal,male,59,0.69230769
+p1137,Validation Cohort 2,spinal,male,62,1.07142857
+p1139,Validation Cohort 2,spinal,male,62,0.25
+p1149,Validation Cohort 2,spinal,male,55,0.13888889
+p1150,Validation Cohort 2,spinal,male,34,0.42857143
+p1165,Validation Cohort 2,bulbar,male,40,0.33333333
+p1175,Validation Cohort 2,spinal,male,35,1
+p1202,Validation Cohort 2,spinal,female,48,0.44444444
+p1203,Validation Cohort 2,spinal,male,65,0.25
+p1252,Validation Cohort 2,spinal,male,58,0.875
+p1253,Validation Cohort 2,spinal,male,35,0.30769231
+p1257,Validation Cohort 2,spinal,male,65,0.24137931
+p1269,Validation Cohort 2,bulbar,male,48,0.91666667
+p1275,Validation Cohort 2,spinal,female,57,0.46666667
+p1277,Validation Cohort 2,spinal,female,51,0.47222222
+p1279,Validation Cohort 2,spinal,female,39,0.25
+p1283,Validation Cohort 2,spinal,male,62,0.54166667
+p1289,Validation Cohort 2,spinal,female,39,0.48387097
+p1342,Validation Cohort 2,spinal,male,51,0.81818182
+p1375,Validation Cohort 2,bulbar,male,32,0.3125
+p1385,Validation Cohort 2,bulbar,female,60,1.09090909
+p1398,Validation Cohort 2,spinal,female,54,0.27777778
+p1405,Validation Cohort 2,spinal,male,64,1
+p1422,Validation Cohort 2,bulbar,female,37,0.7
+p1459,Validation Cohort 2,spinal,male,44,0.61111111
+p1479,Validation Cohort 2,spinal,female,43,0.34615385
+p1506,Validation Cohort 2,spinal,male,26,0.26470588
