@@ -1,129 +1,129 @@
-patient,cohort,onset,gender,age,DeltaFRS
-p1,Development Cohort,spinal,male,51,1.5410473
-p2,Development Cohort,spinal,male,75,1.01649025
-p3,Development Cohort,spinal,male,57,0.48526596
-p4,Development Cohort,spinal,female,62,0.97646789
-p5,Development Cohort,spinal,male,72,0.3081444
-p6,Development Cohort,spinal,male,37,0.13997698
-p7,Development Cohort,bulbar,male,75,0.65048128
-p8,Development Cohort,spinal,male,72,0.56664596
-p9,Development Cohort,spinal,female,46,2.10383648
-p10,Development Cohort,spinal,male,66,0.26675439
-p11,Development Cohort,spinal,male,74,0.24134921
-p12,Development Cohort,bulbar,female,54,0.60417219
-p13,Development Cohort,spinal,female,74,0.1780445
-p14,Development Cohort,bulbar,female,86,0.5051495
-p15,Development Cohort,spinal,female,49,0.96539683
-p16,Development Cohort,spinal,female,51,0.42680702
-p17,Development Cohort,spinal,male,76,0.29361379
-p18,Development Cohort,bulbar,female,72,1.28280397
-p19,Development Cohort,spinal,male,41,0.21721429
-p20,Development Cohort,spinal,male,36,2.02733333
-p21,Development Cohort,spinal,male,58,0.04137415
-p22,Development Cohort,spinal,male,52,0.30258706
-p23,Development Cohort,spinal,male,55,1.47145161
-p24,Development Cohort,spinal,male,62,0.90776119
-p25,Development Cohort,spinal,female,64,0.22766845
-p26,Development Cohort,bulbar,male,69,1.80398305
-p27,Development Cohort,spinal,female,53,0.91458647
-p28,Development Cohort,spinal,male,69,0.78261029
-p29,Development Cohort,spinal,male,68,1.25661157
-p30,Development Cohort,spinal,female,56,1.2979878
-p31,Development Cohort,spinal,male,50,1.00756024
-p32,Development Cohort,spinal,female,52,0.10812444
-p33,Development Cohort,spinal,female,38,0.61558705
-p34,Development Cohort,spinal,female,69,0.14412322
-p35,Development Cohort,spinal,female,64,5.1697
-p36,Development Cohort,spinal,male,66,0.70230947
-p37,Development Cohort,spinal,male,61,0.56947565
-p38,Development Cohort,spinal,male,61,0.47664577
-p39,Development Cohort,spinal,male,57,0.09299694
-p40,Development Cohort,spinal,male,71,0.47423002
-p41,Development Cohort,bulbar,female,60,0.27212528
-p42,Development Cohort,bulbar,male,51,0.44072464
-p43,Development Cohort,bulbar,female,62,0.54957831
-p44,Development Cohort,spinal,female,57,0.77231746
-p45,Development Cohort,bulbar,male,56,0.16754821
-p46,Development Cohort,bulbar,female,60,0
-p103,Validation Cohort 1,bulbar,female,66,1.88751724
-p109,Validation Cohort 1,bulbar,female,65,0.20547297
-p305,Validation Cohort 1,bulbar,male,58,0.97646789
-p307,Validation Cohort 1,bulbar,female,74,1.80653465
-p308,Validation Cohort 1,bulbar,male,56,0.37427692
-p311,Validation Cohort 1,bulbar,female,59,2.40654676
-p315,Validation Cohort 1,bulbar,male,73,1.11391941
-p321,Validation Cohort 1,bulbar,male,76,0.81364549
-p327,Validation Cohort 1,bulbar,female,74,1.77145631
-p328,Validation Cohort 1,bulbar,male,75,3.24373333
-p334,Validation Cohort 1,bulbar,male,68,1.09993617
-p343,Validation Cohort 1,bulbar,male,58,0.58803867
-p349,Validation Cohort 1,bulbar,female,66,0.96924303
-p351,Validation Cohort 1,bulbar,male,53,1.27675572
-p502,Validation Cohort 1,spinal,male,48,0.09407579
-p503,Validation Cohort 1,spinal,female,44,0.40013158
-p504,Validation Cohort 1,spinal,male,74,0.59627451
-p508,Validation Cohort 1,spinal,female,71,0.5829393
-p513,Validation Cohort 1,spinal,male,56,1.03619259
-p517,Validation Cohort 1,spinal,female,58,0.55771236
-p714,Validation Cohort 1,spinal,male,75,0.72290016
-p715,Validation Cohort 1,spinal,male,41,0.33720766
-p718,Validation Cohort 1,spinal,female,54,0.78261029
-p720,Validation Cohort 1,spinal,female,62,1.900625
-p725,Validation Cohort 1,spinal,male,77,0.58820116
-p728,Validation Cohort 1,spinal,male,53,0.52932985
-p729,Validation Cohort 1,spinal,male,47,0.89004878
-p733,Validation Cohort 1,spinal,female,59,1.19042705
-p734,Validation Cohort 1,spinal,female,78,1.96193548
-p737,Validation Cohort 1,spinal,male,59,1.90603989
-p741,Validation Cohort 1,spinal,male,58,2.72641379
-p745,Validation Cohort 1,spinal,male,63,0.1982399
-p748,Validation Cohort 1,spinal,male,48,0.2399211
-p752,Validation Cohort 1,spinal,male,59,0.48770755
-p755,Validation Cohort 1,spinal,male,67,0.0343228
-p758,Validation Cohort 1,spinal,female,62,0.60163669
-p762,Validation Cohort 1,spinal,male,68,0.27091314
-p766,Validation Cohort 1,spinal,male,71,0.18191426
-p767,Validation Cohort 1,spinal,female,69,1.03201357
-p774,Validation Cohort 1,spinal,male,78,0.34556818
-p776,Validation Cohort 1,spinal,female,43,0.14738288
-p777,Validation Cohort 1,spinal,male,64,0.42830986
-p785,Validation Cohort 1,spinal,male,66,0.3004281
-p798,Validation Cohort 1,spinal,female,61,0.40910314
-p800,Validation Cohort 1,spinal,male,57,0.27867125
-p801,Validation Cohort 1,spinal,male,57,0.54182628
-p806,Validation Cohort 1,spinal,male,56,0.11443086
-p808,Validation Cohort 1,spinal,male,36,0.85361403
-p810,Validation Cohort 1,spinal,male,70,2.04834197
-p1005,Validation Cohort 2,spinal,male,52,0.35
-p1021,Validation Cohort 2,spinal,male,52,1.30769231
-p1050,Validation Cohort 2,spinal,male,57,0.47058824
-p1051,Validation Cohort 2,spinal,male,33,0.27272727
-p1082,Validation Cohort 2,bulbar,female,56,0.19444444
-p1090,Validation Cohort 2,bulbar,male,67,0.33333333
-p1103,Validation Cohort 2,spinal,male,59,0.69230769
-p1137,Validation Cohort 2,spinal,male,62,1.07142857
-p1139,Validation Cohort 2,spinal,male,62,0.25
-p1149,Validation Cohort 2,spinal,male,55,0.13888889
-p1150,Validation Cohort 2,spinal,male,34,0.42857143
-p1165,Validation Cohort 2,bulbar,male,40,0.33333333
-p1175,Validation Cohort 2,spinal,male,35,1
-p1202,Validation Cohort 2,spinal,female,48,0.44444444
-p1203,Validation Cohort 2,spinal,male,65,0.25
-p1252,Validation Cohort 2,spinal,male,58,0.875
-p1253,Validation Cohort 2,spinal,male,35,0.30769231
-p1257,Validation Cohort 2,spinal,male,65,0.24137931
-p1269,Validation Cohort 2,bulbar,male,48,0.91666667
-p1275,Validation Cohort 2,spinal,female,57,0.46666667
-p1277,Validation Cohort 2,spinal,female,51,0.47222222
-p1279,Validation Cohort 2,spinal,female,39,0.25
-p1283,Validation Cohort 2,spinal,male,62,0.54166667
-p1289,Validation Cohort 2,spinal,female,39,0.48387097
-p1342,Validation Cohort 2,spinal,male,51,0.81818182
-p1375,Validation Cohort 2,bulbar,male,32,0.3125
-p1385,Validation Cohort 2,bulbar,female,60,1.09090909
-p1398,Validation Cohort 2,spinal,female,54,0.27777778
-p1405,Validation Cohort 2,spinal,male,64,1
-p1422,Validation Cohort 2,bulbar,female,37,0.7
-p1459,Validation Cohort 2,spinal,male,44,0.61111111
-p1479,Validation Cohort 2,spinal,female,43,0.34615385
-p1506,Validation Cohort 2,spinal,male,26,0.26470588
+patient,cohort,onset,gender,age,DeltaFRS,NfL_baseline,ALSFRSR_baseline,BMI_baseline,deceased,months_survived
+p1,Biomarker Programm,spinal,male,51,1.5410473,19,33,32.82,1,28
+p2,Biomarker Programm,spinal,male,75,1.01649025,194,36,24.8,1,26
+p3,Biomarker Programm,spinal,male,57,0.48526596,60,45,23.48,0,40
+p4,Biomarker Programm,spinal,female,62,0.97646789,230,27,NA,0,27
+p5,Biomarker Programm,spinal,male,72,0.3081444,80,32,28.03,0,69
+p6,Biomarker Programm,spinal,male,37,0.13997698,78,44,23.55,0,34
+p7,Biomarker Programm,bulbar,male,75,0.65048128,57,46,26.77,0,63
+p8,Biomarker Programm,spinal,male,72,0.56664596,155,45,20.37,1,26
+p9,Biomarker Programm,spinal,female,46,2.10383648,143,37,37.34,0,39
+p10,Biomarker Programm,spinal,male,66,0.26675439,46,43,25.18,0,24
+p11,Biomarker Programm,spinal,male,74,0.24134921,33,45,26.4,1,24
+p12,Biomarker Programm,bulbar,female,54,0.60417219,273,45,26.48,0,15
+p13,Biomarker Programm,spinal,female,74,0.1780445,189,39,24.39,1,51
+p14,Biomarker Programm,bulbar,female,86,0.5051495,153,43,25.39,0,24
+p15,Biomarker Programm,spinal,female,49,0.96539683,150,42,27.28,0,NA
+p16,Biomarker Programm,spinal,female,51,0.42680702,79,44,27.55,0,50
+p17,Biomarker Programm,spinal,male,76,0.29361379,53,41,25.35,0,34
+p18,Biomarker Programm,bulbar,female,72,1.28280397,393,31,19.92,0,26
+p19,Biomarker Programm,spinal,male,41,0.21721429,50,47,24.38,0,38
+p20,Biomarker Programm,spinal,male,36,2.02733333,66,42,25.25,0,32
+p21,Biomarker Programm,spinal,male,58,0.04137415,96,46,27.47,0,37
+p22,Biomarker Programm,spinal,male,52,0.30258706,12,46,24.69,0,21
+p23,Biomarker Programm,spinal,male,55,1.47145161,107,39,28.09,0,17
+p24,Biomarker Programm,spinal,male,62,0.90776119,303,42,29.05,1,19
+p25,Biomarker Programm,spinal,female,64,0.22766845,63,41,17.37,1,38
+p26,Biomarker Programm,bulbar,male,69,1.80398305,404,41,30.35,0,9
+p27,Biomarker Programm,spinal,female,53,0.91458647,137,40,22.32,0,23
+p28,Biomarker Programm,spinal,male,69,0.78261029,154,41,24.93,0,19
+p29,Biomarker Programm,spinal,male,68,1.25661157,294,37,NA,0,13
+p30,Biomarker Programm,spinal,female,56,1.2979878,91,41,32.79,0,17
+p31,Biomarker Programm,spinal,male,50,1.00756024,153,37,30.16,0,24
+p32,Biomarker Programm,spinal,female,52,0.10812444,9,44,24.21,0,94
+p33,Biomarker Programm,spinal,female,38,0.61558705,182,39,28.55,0,47
+p34,Biomarker Programm,spinal,female,69,0.14412322,82,42,25.63,0,63
+p35,Biomarker Programm,spinal,female,64,5.1697,187,31,33.2,1,23
+p36,Biomarker Programm,spinal,male,66,0.70230947,120,38,30.79,0,35
+p37,Biomarker Programm,spinal,male,61,0.56947565,136,44.5,NA,1,37
+p38,Biomarker Programm,spinal,male,61,0.47664577,105,43,22.88,1,26
+p39,Biomarker Programm,spinal,male,57,0.09299694,105,45,23.89,0,39
+p40,Biomarker Programm,spinal,male,71,0.47423002,59,40,32,0,42
+p41,Biomarker Programm,bulbar,female,60,0.27212528,137,43,32.47,0,37
+p42,Biomarker Programm,bulbar,male,51,0.44072464,180,44,21.48,0,20
+p43,Biomarker Programm,bulbar,female,62,0.54957831,206,40,24.77,0,19
+p44,Biomarker Programm,spinal,female,57,0.77231746,144,37,31.23,0,26
+p45,Biomarker Programm,bulbar,male,56,0.16754821,54,46,28.55,0,17
+p46,Biomarker Programm,bulbar,female,60,0,110,48,29.3,0,40
+p103,LIPCAL Placebo,bulbar,female,66,1.88751724,275,30,19.43,1,18.86
+p109,LIPCAL Placebo,bulbar,female,65,0.20547297,191,45,21.61,0,35.95
+p305,LIPCAL Placebo,bulbar,male,58,0.97646789,49,41,26.75,0,39.46
+p307,LIPCAL Placebo,bulbar,female,74,1.80653465,134,18,24.39,1,38.25
+p308,LIPCAL Placebo,bulbar,male,56,0.37427692,74,44,23.41,0,42
+p311,LIPCAL Placebo,bulbar,female,59,2.40654676,386,26,28.67,0,18.1
+p315,LIPCAL Placebo,bulbar,male,73,1.11391941,349,38,22.86,1,14.22
+p321,LIPCAL Placebo,bulbar,male,76,0.81364549,59,40,30.93,1,24.67
+p327,LIPCAL Placebo,bulbar,female,74,1.77145631,280,36,28.55,1,17.04
+p328,LIPCAL Placebo,bulbar,male,75,3.24373333,197,40,23.18,1,13.24
+p334,LIPCAL Placebo,bulbar,male,68,1.09993617,211,31,22.86,1,21.64
+p343,LIPCAL Placebo,bulbar,male,58,0.58803867,120,41,23.99,1,25.72
+p349,LIPCAL Placebo,bulbar,female,66,0.96924303,177,40,21.87,0,8.69
+p351,LIPCAL Placebo,bulbar,male,53,1.27675572,87,37,26.59,0,20.14
+p502,LIPCAL Placebo,spinal,male,48,0.09407579,54,44,21.63,0,68.26
+p503,LIPCAL Placebo,spinal,female,44,0.40013158,94,43,17.06,0,30.14
+p504,LIPCAL Placebo,spinal,male,74,0.59627451,48,41,21.33,1,28.68
+p508,LIPCAL Placebo,spinal,female,71,0.5829393,136,36,19.95,1,31.24
+p513,LIPCAL Placebo,spinal,male,56,1.03619259,351,25,18.82,0,24.83
+p517,LIPCAL Placebo,spinal,female,58,0.55771236,41,29,21.61,0,56.64
+p714,LIPCAL Placebo,spinal,male,75,0.72290016,79,18,30.09,1,51.53
+p715,LIPCAL Placebo,spinal,male,41,0.33720766,25,37,25.73,0,64.03
+p718,LIPCAL Placebo,spinal,female,54,0.78261029,96,27,22.48,1,29.82
+p720,LIPCAL Placebo,spinal,female,62,1.900625,96,33,27.68,1,35.32
+p725,LIPCAL Placebo,spinal,male,77,0.58820116,65,38,31.41,1,38.39
+p728,LIPCAL Placebo,spinal,male,53,0.52932985,117,28,22.84,1,51.61
+p729,LIPCAL Placebo,spinal,male,47,0.89004878,104,24,23.27,1,31.22
+p733,LIPCAL Placebo,spinal,female,59,1.19042705,40,37,24.22,1,17.08
+p734,LIPCAL Placebo,spinal,female,78,1.96193548,625,24,24.01,0,12.39
+p737,LIPCAL Placebo,spinal,male,59,1.90603989,930,26,23.94,1,12.48
+p741,LIPCAL Placebo,spinal,male,58,2.72641379,141,35,28.65,0,22.1
+p745,LIPCAL Placebo,spinal,male,63,0.1982399,76,43,26.36,0,54.44
+p748,LIPCAL Placebo,spinal,male,48,0.2399211,48,44,22.72,0,45.04
+p752,LIPCAL Placebo,spinal,male,59,0.48770755,82,31,22.53,0,62.75
+p755,LIPCAL Placebo,spinal,male,67,0.0343228,113,47,25.06,0,46.97
+p758,LIPCAL Placebo,spinal,female,62,0.60163669,72,37,27.82,0,35.94
+p762,LIPCAL Placebo,spinal,male,68,0.27091314,104,44,26.85,0,41.89
+p766,LIPCAL Placebo,spinal,male,71,0.18191426,37,42,28.39,0,53.66
+p767,LIPCAL Placebo,spinal,female,69,1.03201357,79,33,23.73,1,24.71
+p774,LIPCAL Placebo,spinal,male,78,0.34556818,29,36,24.62,0,60.91
+p776,LIPCAL Placebo,spinal,female,43,0.14738288,61,45,28.28,0,37.77
+p777,LIPCAL Placebo,spinal,male,64,0.42830986,98,45,22.99,1,32.09
+p785,LIPCAL Placebo,spinal,male,66,0.3004281,47,39,21.88,1,41.91
+p798,LIPCAL Placebo,spinal,female,61,0.40910314,104,42,24.54,0,38.02
+p800,LIPCAL Placebo,spinal,male,57,0.27867125,41,40,24.8,0,51.95
+p801,LIPCAL Placebo,spinal,male,57,0.54182628,51,40,26.51,0,37.92
+p806,LIPCAL Placebo,spinal,male,56,0.11443086,15,44,24.19,0,56.64
+p808,LIPCAL Placebo,spinal,male,36,0.85361403,67,24,23.71,0,50.57
+p810,LIPCAL Placebo,spinal,male,70,2.04834197,275,35,24.69,1,16.25
+p1398,Trophos Placebo,spinal,female,54,0.27777778,85,43,17.53,0,35
+p1051,Trophos Placebo,spinal,male,33,0.27272727,125,45,23.36,0,28
+p1459,Trophos Placebo,spinal,male,44,0.61111111,57,26,26.06,0,47
+p1289,Trophos Placebo,spinal,female,39,0.48387097,35,38,15.06,0,48
+p1375,Trophos Placebo,bulbar,male,32,0.3125,36,46,20.43,0,33
+p1275,Trophos Placebo,spinal,female,57,0.46666667,43,35,23.34,0,47
+p1165,Trophos Placebo,bulbar,male,40,0.33333333,75,45,25.35,0,26
+p1283,Trophos Placebo,spinal,male,62,0.54166667,50,36,27.67,0,41
+p1021,Trophos Placebo,spinal,male,52,1.30769231,54,31,24.21,0,30
+p1422,Trophos Placebo,bulbar,female,37,0.7,48,34,20.42,0,37
+p1137,Trophos Placebo,spinal,male,62,1.07142857,20,33,29.07,0,31
+p1103,Trophos Placebo,spinal,male,59,0.69230769,34,41,21.71,0,30
+p1479,Trophos Placebo,spinal,female,43,0.34615385,175,38,20.37,0,43
+p1253,Trophos Placebo,spinal,male,35,0.30769231,33,44,22.34,0,30
+p1150,Trophos Placebo,spinal,male,34,0.42857143,76,42,23.3,0,31
+p1405,Trophos Placebo,spinal,male,64,1,111,40,22.45,0,14
+p1005,Trophos Placebo,spinal,male,52,0.35,18,44,28.73,0,37
+p1252,Trophos Placebo,spinal,male,58,0.875,69,31,26.73,0,41
+p1257,Trophos Placebo,spinal,male,65,0.24137931,12,41,25.02,0,46
+p1149,Trophos Placebo,spinal,male,55,0.13888889,52,43,23.59,0,53
+p1269,Trophos Placebo,bulbar,male,48,0.91666667,86,39,23.39,0,29
+p1279,Trophos Placebo,spinal,female,39,0.25,21,40,23.67,0,43
+p1090,Trophos Placebo,bulbar,male,67,0.33333333,60,45,26.02,0,26
+p1203,Trophos Placebo,spinal,male,65,0.25,97,42,27.25,0,37
+p1082,Trophos Placebo,bulbar,female,56,0.19444444,87,42,22.81,0,53
+p1202,Trophos Placebo,spinal,female,48,0.44444444,28,37,24.78,0,44
+p1506,Trophos Placebo,spinal,male,26,0.26470588,28,39,24.46,0,45
+p1277,Trophos Placebo,spinal,female,51,0.47222222,23,31,23.84,0,53
+p1139,Trophos Placebo,spinal,male,62,0.25,60,45,19.68,0,29
+p1385,Trophos Placebo,bulbar,female,60,1.09090909,107,39,28.38,0,28
+p1175,Trophos Placebo,spinal,male,35,1,106,41,30,0,24
+p1050,Trophos Placebo,spinal,male,57,0.47058824,144,41,NA,0,34
+p1342,Trophos Placebo,spinal,male,51,0.81818182,31,35,27.94,0,34
