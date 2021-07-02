@@ -27,14 +27,31 @@ timepoints <- read_csv( "https://raw.githubusercontent.com/FelixTheStudent/ALS_c
 patients <- read_csv( "https://raw.githubusercontent.com/FelixTheStudent/ALS_clinical_trials/main/data/data_patientInfo.csv" )
 ```
 
-    #> Warning: Removed 4 rows containing missing values (geom_point).
+To illustrate how disease progression is correlated with our biomarker
+(blood levels of neurofilament light chain, measured at time of
+diagnosis), we visualize four selected patients:
+
+``` r
+patient_colors <- c("#00b159", "#ffc425", "#f37735", "#d11141");
+names(patient_colors) <- c("p32", "p715", "p20", "p33")
+
+
+df <- timepoints %>% filter(patient %in% c("p20", "p32", "p33", "p715" ))
+df %>% ggplot(aes(time, ALSFRSR, col=patient))+geom_point() + ylim(c(0, 60)) + 
+  scale_color_manual(values = patient_colors) + xlab("Time since diagnosis [months]")+
+  theme_classic()+
+df %>% ggplot(aes(time, nfl, col=patient))    +geom_point() + scale_y_log10(limits=c(1,1500)) +
+  scale_color_manual(values = patient_colors) + xlab("Time since diagnosis [months]")+
+  ylab("Neurofilaments in blood [pg/ml]")+ theme_classic() +
+  plot_layout(guides="collect")
+#> Warning: Removed 24 rows containing missing values (geom_point).
+```
 
 ![](README_files/figure-gfm/score_over_time-1.png)<!-- -->
 
-# Notes
+This enables prediction of disease progression, increasing statistical
+power in clinical ALS trials. More details can be found in our
+manuscript:
 
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this. You could also
-use GitHub Actions to re-render `README.Rmd` every time you push. An
-example workflow can be found here:
-<https://github.com/r-lib/actions/tree/master/examples>.
+> Simon Witzel and Felix Frauhammer *et al.*, 2021 (manuscript
+> submitted)
